@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1> Hi.. My name is Divakar😄</h1>
 
-<!--
-**thedivakar/thedivakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Front-End Developer based in AP,India🌍
+<br>
+<H2>Skills</H2>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/divakar-chadalavada-b01b28265?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaJ0z%2FlVCRHeZy3xGw2Xvmg%3D%3D">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
