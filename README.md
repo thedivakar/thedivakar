@@ -1,6 +1,6 @@
 <h1> Hi.. My name is Divakar😄</h1>
 
-I am a Front-End Developer based in AP,India🌍
+I am a Full Stack Developer based in AP,India🌍
 <br>
 <H2>Skills</H2>
 
