@@ -1,6 +1,6 @@
 <h1> Hi.. My name is Divakar😄</h1>
 
-I am a Full Stack Developer based in AP,India🌍
+I am a Full Stack Developer with hands-on experience in building web and mobile applications.
 <br>
 <H2>Skills</H2>
 
